@@ -8,5 +8,5 @@ ShelterFinder는 지진 상황에서 사용자에게 현재 위치로부터 가�
 
 [ShelterFinder-1](https://aka2344.github.io/project/2020/06/08/studyproj.html)
 
-[ShelterFinder-2](https://aka2344.github.io/project/2020/06/09/studyproj.md.html)
+[ShelterFinder-2](https://aka2344.github.io/project/2020/06/09/studyproj2.html)
 
